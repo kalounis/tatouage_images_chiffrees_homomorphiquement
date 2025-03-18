@@ -1,1 +1,1 @@
-# tatouage_images_chiffrees_homomorphiquement
+Projet: Tatouage d’images chiffrées homomorphiquement
